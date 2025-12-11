@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Josué Ribero Duarte</h1>
-<h3 align="center">Cybersecurity, AI & Software Engineer from Colombia 🇨🇴</h3>
+<h3 align="center">Future Systems Engineer from Colombia focused on secure development</h3>
 
 - 🔭 I’m currently working on a **Jewelry E-commerce with customizable products**  
-- 🌱 I’m focusing on **Cloud Computing, Cybersecurity (offensive & defensive), and Artificial Intelligence**  
-- 👯 I’m looking to collaborate on **AI-driven security tools, threat detection systems, and cloud security engineering**  
+- 🌱 I’m focusing on **Backend development and AppSec**  
+- 👯 I’m looking to collaborate on **Software development and engineering**  
 - 👨‍💻 Check out my projects here: [GitHub Portfolio](https://github.com/Josue-Ribero/Josue-Ribero/tree/main)  
-- 💬 Ask me about **Python, FastAPI, Networks, SQL, Computation Theory, and Hardware**  
+- 💬 Ask me about **Python, FastAPI, SQL, Computation Theory and Hardware**  
 - 📫 Reach me at **josueribero95@gmail.com**  
-- ⚡ Fun fact: **I aim to combine AI and cybersecurity to build safer cloud ecosystems**  
+- ⚡ Fun fact: **I aim to combine security and development to protect data while you enjoy a good UI/UX**  
 
 ---
 
